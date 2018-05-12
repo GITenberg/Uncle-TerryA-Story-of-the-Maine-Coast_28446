@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9054'
     url: http://www.gutenberg.org/2009/agents/9054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28446#Uncle-TerryA-Story-of-the-Maine-Coast
 gutenberg_issued: '2009-03-30'
 gutenberg_type: Text
 identifiers:
