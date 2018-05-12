@@ -1,0 +1,32 @@
+_repo: Uncle-TerryA-Story-of-the-Maine-Coast_28446
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Higginbotham, Helena
+    gutenberg_agent_id: '47553'
+    url: http://www.gutenberg.org/2009/agents/47553
+covers:
+- cover_type: archival
+  image_path: 28446-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Munn, Charles Clark
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '9054'
+    url: http://www.gutenberg.org/2009/agents/9054
+description: ''
+gutenberg_issued: '2009-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28446'
+  lccn: 01029090
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maine -- Fiction'
+- !lcc 'PS'
+title: 'Uncle Terry: A Story of the Maine Coast'
+url: http://www.gutenberg.org/ebooks/28446
